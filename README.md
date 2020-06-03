@@ -150,7 +150,7 @@ Port: http://localhost:3333/
 
 ### If you performed each step, the possibility of working perfectly is 100%. If everything went well, you were able to interact with api, that means everything went well.
 
-Obrigado! :metal:
+Thanks! :metal:
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
