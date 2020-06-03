@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="250px" />
 </h1>
 
 <h4 align="center"> 
@@ -106,26 +106,25 @@ Port: http://localhost:3333/
     - Create a POST request paste the url of the port concatenating with "points". http://localhost:3333/points
     - Click on the body option and then json as we will send our request via body. Follow the pattern:
 
-    ```bash
     {
-	 	"name": "CollectRJ",
-    "image": "https://images.unsplash.com/photo-1556767576-5ec41e3239ea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60",
-    "email": "contato@zeze.com.br",
-    "whatsapp": "3199999999",
-    "latitude": -46.81523,
-    "longitude": -26.45681,
-    "city": "Belo Horizonte",
-    "street": "Rua São Pedro",
-    "number": "91",
-    "neighborhood": "Novo Progresso",
-    "uf": "RJ",
-    "items": [
-			1,
-			2,
-			6
-		]
-}
-    ```
+     "name": "CollectRJ",
+     "image": image.svg",
+     "email": "contato@zeze.com.br",
+     "whatsapp": "3199999999",
+     "latitude": -46.81523,
+     "longitude": -26.45681,
+     "city": "Belo Horizonte",
+     "street": "Rua São Pedro",
+     "number": "91",
+     "neighborhood": "Novo Progresso",
+     "uf": "RJ",
+     "items": 
+      [
+	1,
+	2,
+	6
+      ]
+     }
 
     - Click send and watch that
     - This should work by creating a new point
@@ -149,7 +148,7 @@ Port: http://localhost:3333/
     - This should work by bringing a unique specified point by query params
 
 
-# If you performed each step, the possibility of working perfectly is 100%. If everything went well, you were able to interact with api, that means everything went well.
+### If you performed each step, the possibility of working perfectly is 100%. If everything went well, you were able to interact with api, that means everything went well.
 
 Obrigado! :metal:
 
