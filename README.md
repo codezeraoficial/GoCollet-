@@ -59,7 +59,7 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/https://github.com/codezeraoficial/ECollect.git
+$ git clone https://github.com/codezeraoficial/ECollect.git
 
 # Go into the repository
 $ cd NLW-1.0/backend
