@@ -10,10 +10,10 @@ export async function up(knex: Knex){
     table.decimal('latitude').notNullable();
     table.decimal('longitude').notNullable();
     table.string('city').notNullable();
-    table.string('street').notNullable();
-    table.string('number').notNullable();
-    table.string('neighborhood').notNullable();
     table.string('uf', 2).notNullable();
+    // table.string('street').notNullable();
+    // table.string('number').notNullable();
+    // table.string('neighborhood').notNullable();
   });
 
 }
